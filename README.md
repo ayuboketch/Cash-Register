@@ -1,5 +1,7 @@
 ![Screen Shot 2024-02-29 at 23 58 07](https://github.com/ayuboketch/Cash-Register/assets/17433791/47a854bf-8001-44ce-af66-715f612cb2aa)
 
+Github Page - https://ayuboketch.github.io/Cash-Register/
+
 # 🚀 Project Showcase: Sophisticated Cash Register with JavaScript Arrays
 Embark on a coding journey with my latest project, a cash register that seamlessly blends simplicity and sophistication. Written in HTML, CSS, and primarily powered by JavaScript, this project showcases the prowess of utilizing arrays to create a dynamic and efficient cash register system.
 
